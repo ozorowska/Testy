@@ -1,9 +1,8 @@
 ﻿using NUnit.Framework;
-using Moq;
 using System;
 using System.Collections.Generic;
 
-namespace TestProject1
+namespace TestProjectAO.UnitTests
 {
     [TestFixture]
     public class DataServiceTests

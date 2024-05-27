@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace TestProjectAO
+namespace TestProjectAO.UnitTests
 {
     public class MyClassTests
     {

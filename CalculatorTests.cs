@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace TestProjectAO
+namespace TestProjectAO.UnitTests
 {
     public class CalculatorTests
     {
